@@ -1,16 +1,22 @@
-# React + Vite
+# Atharv Bawankule — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal developer portfolio built with React, Vite, and Three.js, featuring interactive 3D visuals and a purple-themed design.
 
-Currently, two official plugins are available:
+🌐 **[Visit My Live Portfolio](https://atharvbawankule.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Connect With Me
 
-## React Compiler
+- **GitHub:** [1owkeyAtharav](https://github.com/1owkeyAtharav)
+- **LeetCode:** [Atharv Bawankule](https://leetcode.com/u/Atharv_Bawankule/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built With
 
-## Expanding the Oxlint configuration
+- React
+- Vite
+- Three.js
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+*Computer science student and aspiring developer, exploring code and computer graphics.*
