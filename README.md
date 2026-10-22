@@ -1,6 +1,6 @@
 # Atharv Bawankule — Portfolio
 
-A personal developer portfolio built with React, Vite, and Three.js, featuring interactive 3D visuals and a purple-themed design.
+A personal developer portfolio built with React, Vite, and Three.js, featuring interactive 3D visuals.
 
 🌐 **[Visit My Live Portfolio](https://atharvbawankule.vercel.app/)**
 
@@ -19,4 +19,3 @@ A personal developer portfolio built with React, Vite, and Three.js, featuring i
 
 ---
 
-*Computer science student and aspiring developer, exploring code and computer graphics.*
